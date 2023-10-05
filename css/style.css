@@ -1,0 +1,146 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+li, a, .logo, .navigation{
+    color: #37393F;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.logo{
+    padding-left: 350px;
+    margin-top:56px;
+    float: left;
+    float: bottom;
+    display: flex;
+    cursor: pointer;
+}
+.navigation{
+    margin-bottom: 150px;
+    padding-left: 195px;
+    margin-top:53px;
+    float: left;
+    list-style: none;
+}
+.navigation li {
+    display: inline;
+    padding: 0px 20px;
+}
+.navigation li :hover {
+    color: #000000d3;
+    size: 100px;
+}
+.Get-Consulting {
+    background-color: #6B77E5;
+    display: inline-block;
+    padding: 21px 35px 22px 35px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px
+}
+.mid-text-cont{
+    display: flex;
+    justify-content: center;
+    width: 1220px;
+    flex-direction: column;
+    align-items: center;
+    gap: 41px;
+}
+.main-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text-cont{
+    display: flex;
+    width: 386px;
+    padding: 58px 43px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background: #F4F4F4;
+}
+.middle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 820.5px;
+    margin-right: 820.5px;
+    margin-bottom: 41px;
+}
+.Testimonials{
+    color: #6B77E5;
+}
+.mid-text{
+    color: #7D7D7D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 146.187%; /* 26.314px */
+}
+.mid-title{
+    color: #37393F;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 127%; /* 31.75px */
+}
+.img-section{
+    display: flex;
+    margin-top: 70px;
+    justify-content: center;
+    margin-bottom: 250px;
+    position: relative;
+}
+.on-img{
+    display: flex;
+    margin-top: 143px;
+    margin-left: 705px;
+    margin-right: 704px;
+    margin-bottom: 143.5px;
+}
+
+
+
+
+
+
+
+
+
+.footer-cont{
+    display: flex;
+    margin-left: 348px;
+    margin-right: 352px;
+    margin-bottom: 131px;
+    position: relative;
+}
+  .needed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -150px;
+  }
+  
+  .team-box {
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-top: 141px;
+  }
+ .footer-img{
+    width: 1005px;
+    height: 670px;
+    flex-shrink: 0;
+ }
